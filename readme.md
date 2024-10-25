@@ -47,6 +47,10 @@ If you need support, please contact us : contact@savana-soft.com
 = 1.0 =
 * First Release
 
-![Phone Barcode screenshot 1](screenshot-1?raw=true "Phone Barcode screenshot 1")
+**Product admin page**
 
-![Phone Barcode screenshot 2](screenshot-2?raw=true "Phone Barcode screenshot 2")
+![Phone Barcode screenshot 1](screenshot-1.png?raw=true "Phone Barcode screenshot 1")
+
+**Products list admin page**
+
+![Phone Barcode screenshot 2](screenshot-2.png?raw=true "Phone Barcode screenshot 2")
